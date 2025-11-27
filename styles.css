@@ -16,10 +16,18 @@ main {
 h1 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+<<<<<<< HEAD
 button {
   background-color: rgb(35, 87, 59);
   color: white;
   margin: 10px;
   padding: 8px;
   border-radius: 8px;
+=======
+#datetime {
+  background-color: white;
+  width: 300px;
+  margin: auto;
+  border: 1px solid grey;
+>>>>>>> 7b85a88adba07665576833db54b0b220c9ba8dfb
 }
