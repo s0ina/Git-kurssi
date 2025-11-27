@@ -16,3 +16,9 @@ main {
 h1 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+#datetime {
+  background-color: white;
+  width: 300px;
+  margin: auto;
+  border: 1px solid grey;
+}
