@@ -18,12 +18,12 @@ h1 {
 }
 #datetime {
   background-color: white;
-  width: 300px;
+  width: 500px;
   margin: auto;
-  border: 1px solid grey;
+  border: 3px solid rgb(42, 44, 44);
 }
 body {
-  background-color: #ffffff;
+  background-color: #62c8c0;
   opacity: 1;
   background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #ffffff 40px ), repeating-linear-gradient( #FAF0E655, #FAF0E6 );
 }
